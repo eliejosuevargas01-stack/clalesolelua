@@ -86,11 +86,11 @@ export default function Index() {
       <header className="sticky top-0 z-50 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
           <div className="font-heading font-bold text-2xl text-primary">
-            Chales Sol e Lua
+            Pousada Lua Chalé
           </div>
           <div className="flex items-center gap-4">
             <a
-              href="https://wa.me/5548984829654?text=Olá! Gostaria de agendar uma estadia no Chales Sol e Lua."
+              href="https://wa.me/5548984829654?text=Olá! Gostaria de agendar uma estadia na Pousada Lua Chalé."
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-2 bg-primary text-white rounded-full hover:bg-primary/90 transition-colors font-medium text-sm"
@@ -290,7 +290,7 @@ export default function Index() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8 pb-8 border-b border-gray-800">
             <div>
               <h3 className="font-heading text-lg font-bold text-white mb-4">
-                Chales Sol e Lua
+                Pousada Lua Chalé
               </h3>
               <p className="text-sm">Seu refúgio luxuoso em Blumenau, Santa Catarina.</p>
             </div>
@@ -307,7 +307,7 @@ export default function Index() {
             </div>
           </div>
           <div className="text-center text-sm">
-            <p>&copy; 2024 Chales Sol e Lua. Todos os direitos reservados.</p>
+            <p>&copy; 2024 Pousada Lua Chalé. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
