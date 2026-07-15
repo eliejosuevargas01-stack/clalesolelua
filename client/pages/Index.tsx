@@ -243,7 +243,7 @@ export default function Index() {
               className="px-8 py-4 bg-white text-primary rounded-full hover:bg-gray-100 transition-colors font-semibold text-lg flex items-center justify-center gap-2"
             >
               <MessageCircle className="w-5 h-5" />
-              WhatsApp: +55 48 8482-9654
+              Conversar no WhatsApp
             </a>
             <a
               href="https://www.booking.com/hotel/br/chales-sol-e-lua-blumenau.pt-br.html"
@@ -296,7 +296,7 @@ export default function Index() {
             </div>
             <div>
               <h4 className="text-white font-semibold mb-4">Contato</h4>
-              <p className="text-sm mb-2">WhatsApp: +55 48 8482-9654</p>
+              <p className="text-sm mb-2">WhatsApp</p>
               <a href="https://www.booking.com/hotel/br/chales-sol-e-lua-blumenau.pt-br.html" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-primary transition-colors">
                 Booking.com
               </a>
