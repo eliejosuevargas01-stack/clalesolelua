@@ -267,13 +267,13 @@ export default function Index() {
             </h2>
           </div>
           <p className="text-center text-gray-600 text-lg mb-8 max-w-2xl mx-auto">
-            Blumenau, Santa Catarina - Seu destino perfeito na Serra Geral
+            Rua Ribeirão Schelters 216, Blumenau, CEP 89074-680, Brasil
           </p>
 
           <div className="bg-white p-8 rounded-lg shadow-lg">
             <iframe
               title="Chales Sol e Lua Location"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3600.3394771635666!2d-49.01666!3d-26.929444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce1d46b5b5b5b%3A0x1234567890123456!2sChales%20Sol%20e%20Lua!5e0!3m2!1spt-BR!2sbr!4v1234567890123"
+              src="https://www.google.com/maps?q=Rua%20Ribeir%C3%A3o%20Schelters%20216%2C%20Blumenau%2C%20CEP%2089074-680%2C%20Brasil&z=15&output=embed"
               width="100%"
               height="400"
               style={{ border: 0, borderRadius: "0.5rem" }}
@@ -303,7 +303,7 @@ export default function Index() {
             </div>
             <div>
               <h4 className="text-white font-semibold mb-4">Localização</h4>
-              <p className="text-sm">Blumenau, SC<br />Brasil</p>
+              <p className="text-sm">Rua Ribeirão Schelters 216<br />Blumenau, SC<br />CEP 89074-680<br />Brasil</p>
             </div>
           </div>
           <div className="text-center text-sm">
